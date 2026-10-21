@@ -1,0 +1,6 @@
+{
+  "name": "XFADI",
+  "description": "Professional wholesale shopping app for Moroccan grocery stores and shop owners with full RTL Arabic support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="120dp"
+    android:viewportWidth="360"
+    android:viewportHeight="120">
+    <!-- Ground line -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.5"
+        android:pathData="M0,118 L360,118" />
+
+    <!-- Casablanca City Skyline & Hassan II Mosque Minaret Outline -->
+    <!-- Buildings Left -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M10,118 L10,95 L25,95 L25,80 L40,80 L40,105 L45,105 L45,90 L60,90 L60,118" />
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1"
+        android:pathData="M15,90 L20,90 M30,85 L35,85 M50,95 L55,95" />
+
+    <!-- Intermediate skyline -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M65,118 L65,70 L75,70 L75,60 L85,60 L85,118" />
+
+    <!-- Hassan II Mosque Minaret (Tall landmark with spire and geometric tiers) -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.5"
+        android:pathData="M105,118 L105,35 L108,35 L108,22 L112,22 L112,12 L114,8 L114,2 L116,8 L116,12 L120,22 L124,22 L124,35 L127,35 L127,118" />
+    <!-- Minaret decorative tiers and details -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1"
+        android:pathData="M105,48 L127,48 M105,65 L127,65 M105,85 L127,85 M105,102 L127,102" />
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1"
+        android:pathData="M113,40 L119,40 M113,55 L119,55 M113,75 L119,75 M113,93 L119,93" />
+
+    <!-- Mosque Dome and Arches -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M127,118 L127,85 Q145,65 163,85 L163,118" />
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1"
+        android:pathData="M135,118 L135,100 Q145,90 155,100 L155,118" />
+
+    <!-- Buildings Right -->
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M170,118 L170,75 L185,75 L185,65 L200,65 L200,118" />
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M205,118 L205,82 L220,82 L220,95 L235,95 L235,70 L250,70 L250,118" />
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M255,118 L255,60 L270,60 L270,85 L285,85 L285,118" />
+    <path
+        android:strokeColor="#FFBE00"
+        android:strokeWidth="1.2"
+        android:pathData="M290,118 L290,90 L305,90 L305,78 L320,78 L320,100 L335,100 L335,85 L350,85 L350,118" />
+</vector>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- FADIX Stylized F Emblem (Matches Logo in Reference Image) -->
+    <!-- Outer Shield / Curved Ring -->
+    <path
+        android:fillColor="#FFBE00"
+        android:pathData="M8,10 Q8,6 14,6 L38,6 Q42,6 42,12 L42,18 Q42,24 36,24 L22,24 L22,40 Q22,42 18,42 L12,42 Q8,42 8,38 Z" />
+    <!-- Cutout / Inner Shape creating the letter F -->
+    <path
+        android:fillColor="#091B3A"
+        android:pathData="M18,14 L34,14 Q36,14 36,16 L36,18 Q36,20 34,20 L18,20 Z" />
+    <!-- Middle F Bar -->
+    <path
+        android:fillColor="#FFBE00"
+        android:pathData="M18,28 L32,28 Q34,28 34,30 L34,32 Q34,34 32,34 L18,34 Z" />
+</vector>

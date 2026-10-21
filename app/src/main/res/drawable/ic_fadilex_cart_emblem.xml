@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="40dp"
+    android:viewportWidth="48"
+    android:viewportHeight="40">
+    <!-- Handle -->
+    <path
+        android:strokeColor="#F5B800"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,4 L33,4 L28,24 L12,24" />
+    <!-- Basket Top rim -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M35,9 L10,9" />
+    <!-- Basket Middle rail -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M32,15 L14,15" />
+    <!-- Basket Bottom rail -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M29,21 L18,21" />
+    <!-- Wheels -->
+    <!-- Front wheel -->
+    <path
+        android:strokeColor="#F5B800"
+        android:strokeWidth="2.5"
+        android:fillColor="#0B1D3A"
+        android:pathData="M16,31 m -4,0 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+    <!-- Rear wheel -->
+    <path
+        android:strokeColor="#F5B800"
+        android:strokeWidth="2.5"
+        android:fillColor="#0B1D3A"
+        android:pathData="M28,31 m -4,0 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+</vector>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wholesale Warehouse Store & Shopping Cart Icon -->
+    <!-- Roof / Warehouse Header -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M32,38 L54,26 L76,38 L76,43 L32,43 Z" />
+    <!-- Pillars / Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,45 L42,45 L42,65 L36,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,45 L52,45 L52,65 L46,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,45 L62,45 L62,65 L56,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,45 L72,45 L72,65 L66,65 Z" />
+    <!-- Base Platform -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M30,66 L78,66 L78,71 L30,71 Z" />
+    <!-- Wholesale Badge / Star -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,49 L56,54 L61,54 L57,57 L59,62 L54,59 L49,62 L51,57 L47,54 L52,54 Z" />
+    <!-- Wholesale Box symbol -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M44,75 L64,75 L64,80 L44,80 Z" />
+</vector>
